@@ -1,0 +1,9 @@
+{
+  "name": "independent-cli",
+  "version": "0.0.0",
+  "description": "CLI lib with no dependencies",
+  "main": "index.js",
+  "author": "Weronika Kleczaj",
+  "license": "MIT",
+  "private": true
+}
